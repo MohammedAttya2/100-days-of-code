@@ -1,9 +1,9 @@
 # 100 Days Of Code - Log
 
 ### Day 0: 2nd June 2017
-**Today's Progress**: 
+**Today's Progress**: Starting with PHP OOP
 
-**Thoughts:**
+**Thoughts:** Thinking about a project to apply the new learned skills
 
 
 <!--- ### Day 0: February 30, 2016 (Example 1)
