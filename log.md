@@ -6,6 +6,13 @@
 **Thoughts:** Thinking about a project to apply the new learned skills
 
 
+
+### Day 1: 3rd June 2017
+**Today's Progress**: Abstract class and Interfaces
+
+**Thoughts:** Should begin Stanford Database Course
+
+
 <!--- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
