@@ -13,6 +13,11 @@
 **Thoughts:** Should begin Stanford Database Course
 
 
+### Day 2: 4th June 2017
+**Today's Progress**: Introduction to Databases
+
+**Thoughts:** thinking about Programming Language course
+
 <!--- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
