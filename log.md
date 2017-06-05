@@ -18,6 +18,12 @@
 
 **Thoughts:** thinking about Programming Language course
 
+
+### Day 3: 5th June 2017
+**Today's Progress**: Introduction to Databases (relational) and more OOP
+
+**Thoughts:** thinking about Programming Language course (again)
+
 <!--- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
