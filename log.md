@@ -24,6 +24,10 @@
 
 **Thoughts:** thinking about Programming Language course (again)
 
+
+### Day 4: 6th June 2017
+**Today's Progress**: Working with PHP Sessions
+**Thoughts:** still thinking about PHP vs NodeJS
 <!--- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
