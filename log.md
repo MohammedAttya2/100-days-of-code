@@ -1,34 +1,40 @@
 # 100 Days Of Code - Log
 
-### Day 0: 2nd June 2017
+### Day 0: June 2, 2017
 **Today's Progress**: Starting with PHP OOP
 
 **Thoughts:** Thinking about a project to apply the new learned skills
 
 
 
-### Day 1: 3rd June 2017
+### Day 1: June 3, 2017
 **Today's Progress**: Abstract class and Interfaces
 
 **Thoughts:** Should begin Stanford Database Course
 
 
-### Day 2: 4th June 2017
+### Day 2: June 4, 2017
 **Today's Progress**: Introduction to Databases
 
 **Thoughts:** thinking about Programming Language course
 
 
-### Day 3: 5th June 2017
+### Day 3: June 5, 2017
 **Today's Progress**: Introduction to Databases (relational) and more OOP
 
 **Thoughts:** thinking about Programming Language course (again)
 
 
-### Day 4: 6th June 2017
+### Day 4: June 6, 2017
 **Today's Progress**: Working with PHP Sessions
 **Thoughts:** still thinking about PHP vs NodeJS
-<!--- ### Day 0: February 30, 2016 (Example 1)
+
+
+### Day 5: June 7, 2017
+**Today's Progress**: More OOP and start creating MVC
+**Thoughts:** I'll stick with PHP for now
+<!--- 
+### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
