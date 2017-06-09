@@ -39,6 +39,10 @@
 **Today's Progress**: More OOP and start creating MVC again
 **Thoughts:** I'll stick with PHP for now
 
+### Day 7: June 9, 2017
+**Today's Progress**: More OOP (Laracasts)
+**Thoughts:** I'll stick with PHP for now
+
 <!--- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
