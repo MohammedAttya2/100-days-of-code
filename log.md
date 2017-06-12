@@ -43,6 +43,19 @@
 **Today's Progress**: More OOP (Laracasts)
 **Thoughts:** I'll stick with PHP for now
 
+
+### Day 8: June 10, 2017
+**Today's Progress**: More OOP (Laracasts) (revision) and Front End (Intro)
+**Thoughts:** I'll stick with PHP for now
+
+### Day 9: June 11, 2017
+**Today's Progress**: More OOP (Laracasts) (revision) and Front End (MTML)
+**Thoughts:** I'll stick with PHP for now
+
+### Day 10: June 12, 2017
+**Today's Progress**: More OOP (Laracasts) Dependency Injection and Front End (Intro)
+**Thoughts:** I'll stick with PHP for now
+
 <!--- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
