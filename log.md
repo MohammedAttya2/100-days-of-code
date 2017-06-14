@@ -56,6 +56,14 @@
 **Today's Progress**: More OOP (Laracasts) Dependency Injection and Front End (Intro)
 **Thoughts:** I'll stick with PHP for now
 
+### Day 11: June 13, 2017
+**Today's Progress**: More OOP (Laracasts) abstraction
+
+
+### Day 12: June 14, 2017
+**Today's Progress**: More OOP (Laracasts) Interfaces
+**Thoughts:** Want a project to create and make it bigger and bigger
+
 <!--- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
