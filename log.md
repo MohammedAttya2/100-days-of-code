@@ -93,6 +93,12 @@
 **Link to work:** [TaskAppCLI](https://github.com/MohammedAttya2/TaskAppCLI/)
 
 
+------------------------------------------
+### Day 14: June 16, 2017
+**Today's Progress**: TDD php with phpspec
+
+**Thoughts:** Want a project to create and make it bigger and bigger
+
 <!--- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
